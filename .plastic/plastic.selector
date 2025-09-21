@@ -1,0 +1,4 @@
+repository "Delivery Package Game(Udemy 2D)/Delivery Package Game(Udemy 2D)@13469797659929@cloud"
+  path "/"
+    br "/main"
+    co "/main"
